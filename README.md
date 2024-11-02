@@ -5,9 +5,9 @@ This project is a Python application for converting JPEG and PNG images into a d
 ### How the Program Works
 The application provides a graphical interface using the Tkinter library, where users can select an image for conversion. Once an image is chosen, it’s processed and converted into an RGB565 data array compatible with the ST7789V TFT display, then saved in the image_array.txt file.
 
-- ** RGB to RGB565 Conversion: Each pixel is converted from RGB format to RGB565, a color format optimized for TFT displays. This reduces memory usage and improves display performance.
-- ** Supported Formats: Users can select both JPEG and PNG files.
-- ** Array Generation: The converted image data is saved in image_array.txt. Values are formatted as 0xFFFF, separated by commas, and aligned in rows of 16 values for easy readability.
+-  RGB to RGB565 Conversion: Each pixel is converted from RGB format to RGB565, a color format optimized for TFT displays. This reduces memory usage and improves display performance.
+-  Supported Formats: Users can select both JPEG and PNG files.
+-  Array Generation: The converted image data is saved in image_array.txt. Values are formatted as 0xFFFF, separated by commas, and aligned in rows of 16 values for easy readability.
 ### Requirements
 - Python 3.x
 - Libraries:
