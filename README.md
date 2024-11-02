@@ -29,7 +29,7 @@ pip install pillow
 
 2. In the graphical interface that appears, click the "Select Image" button and choose a JPEG or PNG file.
 
-3. The program will convert the image and save the data array in image_array.txt.
+3. The program will convert the image and save the data array in `image_array.txt`.
 
 4. Open `image_array.txt`, copy the array, and paste it into your Arduino/ESP32 sketch to display the image on your TFT screen.
  
