@@ -36,7 +36,7 @@ pip install pillow
 
 ## Installation and Running
 
-To start the application, simply right-click on convert.py.exe.py and choose "Open with Python".
+To start the application, simply right-click on 'convert.py.exe.py' and choose "Open with Python".
 
 ## License
 This project is licensed under the MIT License.
