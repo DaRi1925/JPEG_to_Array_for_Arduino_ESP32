@@ -14,12 +14,16 @@ The program uses the Tkinter library to create a graphical interface where users
 - Python 3.x
 - Libraries: Pillow (for image processing), tkinter (for the graphical interface)
 
+## Пример дисплея
+![Дисплей](img211249.png)
+
 To install dependencies:
 ```bash
 pip install pillow
+```
 
-
-
+## Пример дисплея
+![Дисплей](img211249.png)
 
 
 Usage
@@ -32,7 +36,7 @@ Usage
 
 4 Copy the array from image_array.txt and paste it into your sketch to display the image on the screen.
 
-Display Example
+ 
 
 Installation and Running
 
